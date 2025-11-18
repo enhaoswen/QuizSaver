@@ -19,6 +19,7 @@
 * fix the problem of blur effect
 * more ways to submit vocabs
 * more theme
+* flickable for history page
 
 
 
